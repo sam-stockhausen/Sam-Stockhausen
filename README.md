@@ -1,70 +1,21 @@
-Hi, I’m Samuel Stockhausen
+# Samuel Stockhausen
+Service Desk Analyst targeting SOC analyst roles
+B.S. Cybersecurity Analytics and Operations, Penn State | Security+ • CySA+ • CSAP
 
-I’m a cybersecurity graduate with a strong focus on SOC operations, detection engineering, and defensive security. I build hands-on labs to simulate real world attacks, generate telemetry, and detect them using SIEM and network security tools.
+I build and break a segmented homelab, then write up what I detect, what failed, and what I'd change.
 
-I’m actively pursuing entry level to junior roles in cybersecurity, SOC analysis, cloud security, and infrastructure security.
+## Featured projects
+- **Honeypot alerting pipeline**: OpenCanary → Promtail → Loki → Grafana alert on internal probes → 
+- **Sysmon rollout via Group Policy**: enterprise-style deployment and telemetry → 
+- **Internal PKI and reverse proxy**: AD CS, wildcard certs, Nginx Proxy Manager → 
+- **Network segmentation**: Proxmox, pfSense, 4 VLANs → 
+- **Remote access and monitoring**: WireGuard, jumpbox, Prometheus + Grafana → 
+- **Automation scripts**: eyespy network scanner (Python), VM patching (Bash) → 
 
-Areas of Focus
+## Tools
+Proxmox • pfSense • Windows Server AD/DNS • Docker • Sysmon • Grafana/Loki/Prometheus • Snort • Splunk (school) • Wireshark • Python • Bash
 
-• Security Operations and Monitoring
+## Certifications
+Security+ • CySA+ • CSAP • TryHackMe SOC Level 1 • Google Cybersecurity Professional • AZ-900 • CCSK
 
-• SIEM Deployment and Alerting
-
-• Incident Response and Log Analysis
-
-• Network Security and Firewalls
-
-• Windows Active Directory Environments
-
-• Cloud and Hybrid Security Labs
-
-Tools and Technologies
-
-pfSense
-Windows Server 2022 and Active Directory
-
-Wazuh and Security Onion
-
-Suricata and Snort
-
-Kali Linux
-
-Ubuntu Linux
-
-Wireshark and tcpdump
-
-Nessus and OpenVAS
-
-AWS VPC and hybrid networking
-
-Featured Projects
-
-• Wazuh SIEM with simulated attack detection
-
-• pfSense firewall and segmented homelab network
-
-• Active Directory attack and detection lab
-
-• Data exfiltration and command and control simulation
-
-• MITM and plaintext traffic analysis lab
-
-Each project includes architecture diagrams, setup steps, attack simulation, detection evidence, and lessons learned.
-
-Certifications
-
-CompTIA Security+
-
-CompTIA CySA+
-
-AZ-900
-
-Google Cybersecurity Professional
-
-CCSK
-
-NSA Certification
-
-LinkedIn: www.linkedin.com/in/sam-stockhausen
-
-Email: sstockhausen06@gmail.com
+LinkedIn: linkedin.com/in/sam-stockhausen
